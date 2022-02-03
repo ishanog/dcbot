@@ -424,4 +424,4 @@ def getDrops():
     return drops
 
 
-client.run(os.getenv('TOKEN'))
+client.run(os.getenv('NzU5NjMwMDY2MzQyNDI4NzMy.X3ASoQ.gOCg7wOBzrH3mEQ3jqUirhOoxQw'))
